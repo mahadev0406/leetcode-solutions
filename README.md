@@ -6,10 +6,12 @@ My DSA and LeetCode problem-solving journey using C++
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mahadev0406/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mahadev0406/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mahadev0406/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mahadev0406/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mahadev0406/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
